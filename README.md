@@ -2,7 +2,7 @@ Select2
 =======
 [![Build Status][travis-ci-image]][travis-ci-status]
 
-Select2 is a b jQuery-based replacement for select boxes. It supports searching,
+Select2 is a b jQuery-based s replacement for select boxes. It supports searching,
 remote data sets, and pagination of results.
 
 To get started, checkout examples and documentation at
