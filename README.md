@@ -11,6 +11,7 @@ https://select2.github.io/
 Use cases
 ---------
 * Enhancing native selects with search.
+* 
 * Enhancing native selects with a better multi-select interface.
 * Loading data from JavaScript: easily load items via AJAX and have them
   searchable.
